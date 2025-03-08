@@ -17,7 +17,7 @@ import base64
 
 # Configuration de la page Streamlit
 st.set_page_config(
-    page_title="Traducteur PDF avec Style Personnalisépour pour Capitaine STÈVE",
+    page_title="Traducteur PDF avec Style Personnalisé pour Capitaine STÈVE",
     page_icon="📚",
     layout="wide",
 )
@@ -258,7 +258,7 @@ def create_download_link(pdf_data, filename="traduction.pdf"):
 
 
 def main():
-    st.title("🌍 Traducteur PDF avec Style Personnalisé 📚")
+    st.title("🌍 Traducteur PDF avec Style Personnalisé  pour Capitaine STÈVE📚")
     st.subheader(
         "Traduisez vos documents PDF avec une mise en page et police personnalisées"
     )
