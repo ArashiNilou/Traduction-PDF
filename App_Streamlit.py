@@ -17,7 +17,9 @@ import base64
 
 # Configuration de la page Streamlit
 st.set_page_config(
-    page_title="Traducteur PDF avec Style Personnalisé", page_icon="📚", layout="wide"
+    page_title="Traducteur PDF avec Style Personnalisépour pour Capitaine STÈVE",
+    page_icon="📚",
+    layout="wide",
 )
 
 # Liste des polices BD cool et lisibles disponibles gratuitement
